@@ -1,0 +1,63 @@
+<html>
+<head>
+    <title>Menu Principal</title>
+</head>
+
+<body>
+
+<center>
+<h1>Menu de Ejercicios PHP</h1>
+<a href="nombre.html">Ejercicio 1</a>
+<br><br>
+<a href="solicitar.html">Ejercicio 2</a>
+<br><br>
+<a href="resta.html">Ejercicio 3 </a>
+<br><br>
+<a href="multi.html">Ejercicio 4 </a>
+<br><br>
+<a href="division.html">Ejercicio 5 </a>
+<br><br>
+<a href="solicitarnombre.html">Ejercicio 6 </a>
+<br><br>
+<a href="determinar.html">Ejercicio 7</a>
+<br><br>
+<a href="deter.html">Ejercicio 8 </a>
+<br><br>
+<a href="entero.html">Ejercicio 9 </a>
+<br><br>
+<a href="prom.html">Ejercicio 10 </a>
+<br><br>
+<a href="aprobo.html">Ejercicio 11 </a>
+<br><br>
+<a href="area.html">Ejercicio 12 </a>
+<br><br>
+<a href="cuadrado.html">Ejercicio 13 </a>
+<br><br>
+<a href="metro.html">Ejercicio 14 </a>
+<br><br>
+<a href="grados.html">Ejercicio 15 </a>
+<br><br>
+<a href="salario.html">Ejercicio 16</a>
+<br><br>
+<a href="comprar.html">Ejercicio 17</a>
+<br><br>
+<a href="unitario.html"> ejercicio 18</a>
+<br><br>
+<a href="tabla.html">ejercicio 19</a>
+<br><br>
+<a href="sumai.html">ejercicio 20</a>
+<br><br>
+<a href="palabra.html">Ejercicio 21</a>
+<br><br>
+<a href="dolares.html">Ejercicio 22</a>
+<br><br>
+<a href="iva.html">ejercicio 23</a>
+<br><br>
+<a href="futuro.html">ejercicio 24</a>
+<br><br>
+<a href="imform.html"> ejercicio 25</a>
+
+</center>
+
+</body>
+</html>

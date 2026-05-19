@@ -31,7 +31,7 @@
 <br><br>
 <a href="area.html">Ejercicio 12 </a>
 <br><br>
-<a href="cuadrado.html">Ejercicio 13 </a>
+<a href="cuadraro.html">Ejercicio 13 </a>
 <br><br>
 <a href="metro.html">Ejercicio 14 </a>
 <br><br>
